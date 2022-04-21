@@ -1,0 +1,18 @@
+touch file.vue
+
+route code
+
+
+model edit
+
+=crud
+ope/pages/pageName.vue
+
+
+vue js code :crud
+
+
+other command:
+dev
+build
+firebase
